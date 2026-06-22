@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dulce-amargura/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Dulce amargura](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-amargura/) |
+| **Get License** | [License this song: Dulce amargura](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-amargura/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dulce amargura, tu sabor en mi piel
+> Me enciende la noche, me vuelves cruel
+> Dulce amargura, no puedo escapar
+> De este veneno que me hace bailar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
