@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dulce amargura
+
+This log tracks the cryptographic history and versioning for the song **Dulce amargura** (dulce-amargura).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T05:59:09.251125 | `v1` | `e9e301bcba4fc069b0c0f73bdafa08d9a86878f4148459103e2c96e986657cbc` | `d0da0eeeff726110efe55d29f289810c27eff0ac3b1014b446a5375618bc2dff` | `2026-06-23_dulce-amargura-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
